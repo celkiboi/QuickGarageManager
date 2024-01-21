@@ -1,0 +1,15 @@
+<!-- res/values/themes.xml -->
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.QGM" parent="Theme.MaterialComponents.DayNight">
+        <!-- Other common theme attributes for both light and dark mode -->
+        <item name="android:windowBackground">@color/background_color_light</item>
+    </style>
+
+</resources>
+
+
+
+
+
